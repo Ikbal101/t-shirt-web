@@ -1,0 +1,9 @@
+.details{
+    border: 1px solid rgb(146, 201, 234);
+    padding: 10px;border-radius: 8px;
+}
+
+.details img{
+    height: 300px;
+    border-radius: 8px;
+}
